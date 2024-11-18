@@ -1,0 +1,28 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 1920,
+      "height": 1080,
+      "fitHeight": true,
+      "fitWidth": false
+    },
+    "highQuality": true
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "floor"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 6,
+      "1": 1,
+      "2": 1
+    },
+    "gravity": {
+      "y": -10
+    }
+  }
+}
